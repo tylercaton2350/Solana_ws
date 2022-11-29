@@ -1,0 +1,12 @@
+[submodule "solana"]
+	path = solana
+	url = https://github.com/solana-labs/solana.git
+[submodule "solana-program-library"]
+	path = solana-program-library
+	url = https://github.com/solana-labs/solana-program-library.git
+[submodule "example-hello-world"]
+	path = example-hello-world
+	url = https://github.com/solana-labs/example-helloworld.git
+[submodule "javascript-solana-boilerplate"]
+	path = javascript-solana-boilerplate
+	url = https://github.com/kanav99/solana-boilerplate.git
